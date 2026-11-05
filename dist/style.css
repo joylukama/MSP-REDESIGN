@@ -187,3 +187,11 @@ img{max-width:100%}.hero-copy,.hero-image,.about>div,.apply>div,.detail-layout>*
  .nav-toggle{font-size:17px;min-height:50px}
  .nav-panel a{font-size:16px;min-height:50px}
 }
+
+/* Mobile links use plain labels; menu chevrons are drawn with CSS. */
+@media(max-width:900px){
+ .desktop-arrow{display:none!important}
+ .nav-toggle>span{display:none}
+ .nav-toggle::after{content:'';width:8px;height:8px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);margin:0 5px 5px 12px;flex-shrink:0}
+ .nav-toggle[aria-expanded="true"]::after{transform:rotate(225deg);margin-bottom:0}
+}
