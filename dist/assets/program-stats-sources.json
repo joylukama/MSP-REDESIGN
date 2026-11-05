@@ -1,0 +1,125 @@
+{
+  "checked": "2026-11-05",
+  "source": "https://www.millennium.psu.edu/",
+  "metrics": [
+    {
+      "value": "91%",
+      "label": "Graduation rate"
+    },
+    {
+      "value": "416",
+      "label": "Across 14 cohorts"
+    },
+    {
+      "value": "90",
+      "label": "Advanced degrees earned by MSP alumni"
+    },
+    {
+      "value": "122",
+      "label": "Scholars enrolled for fall 2026"
+    },
+    {
+      "value": "49",
+      "label": "Nationally competitive awards earned by scholars"
+    }
+  ],
+  "circle_counter_configuration": [
+    {
+      "selector": ".et_pb_circle_counter_0 .percent",
+      "data": {
+        "numberValue": {
+          "desktop": {
+            "value": "91"
+          }
+        },
+        "barColor": {
+          "desktop": {
+            "value": "#FFD100"
+          }
+        },
+        "trackColor": {
+          "desktop": {
+            "value": ""
+          }
+        },
+        "trackAlpha": {
+          "desktop": {
+            "value": "0.1"
+          }
+        }
+      }
+    },
+    {
+      "selector": ".et_pb_circle_counter_1 .percent",
+      "data": {
+        "numberValue": {
+          "desktop": {
+            "value": "90"
+          }
+        },
+        "barColor": {
+          "desktop": {
+            "value": "#FFD100"
+          }
+        },
+        "trackColor": {
+          "desktop": {
+            "value": ""
+          }
+        },
+        "trackAlpha": {
+          "desktop": {
+            "value": "0.1"
+          }
+        }
+      }
+    },
+    {
+      "selector": ".et_pb_circle_counter_2 .percent",
+      "data": {
+        "numberValue": {
+          "desktop": {
+            "value": "49"
+          }
+        },
+        "barColor": {
+          "desktop": {
+            "value": "#FFD100"
+          }
+        },
+        "trackColor": {
+          "desktop": {
+            "value": ""
+          }
+        },
+        "trackAlpha": {
+          "desktop": {
+            "value": "0.1"
+          }
+        }
+      }
+    }
+  ],
+  "number_counter_configuration": [
+    {
+      "selector": ".et_pb_number_counter_0",
+      "data": {
+        "numberValue": {
+          "desktop": {
+            "value": "416"
+          }
+        }
+      }
+    },
+    {
+      "selector": ".et_pb_number_counter_1",
+      "data": {
+        "numberValue": {
+          "desktop": {
+            "value": "122"
+          }
+        }
+      }
+    }
+  ]
+}

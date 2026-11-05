@@ -25,7 +25,9 @@
     "Original program introduction video",
     "Lia Formica background, ROTC, hobbies, and career interests",
     "Thesis monthly planning examples",
-    "Program founding year (2013)"
+    "Program founding year (2013)",
+    "Homepage statistics recovered from Divi counter configuration",
+    "Homepage program benefits, introduction video, and Giving Tuesday 2026 message"
   ],
   "local_resources": {
     "https://www.millennium.psu.edu/files/2020/07/Caps-in-the-Air-e1611177112255.jpg": "assets/program-resources/9a6ac58e-Caps-in-the-Air-e1611177112255.jpg",
@@ -66,8 +68,7 @@
     "legacy_signatory_page": "Original returns 404; retained instructions and provided email request to MSP"
   },
   "unavailable_original_content": [
-    "Interview Weekend Videos 2021 page has no body content",
-    "Homepage statistic counters contain no values in the published markup"
+    "Interview Weekend Videos 2021 page has no body content"
   ],
   "notes": "No numerical statistics were invented. Earlier-cycle dates remain identified as historical. Original program-page navigation is replaced by local routes."
 }
