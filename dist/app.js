@@ -52,7 +52,7 @@ const slug = new URLSearchParams(location.search).get('page');
 if (slug) {
   document.querySelector('#home').hidden = true;
   document.querySelector('#detail').hidden = false;
-  fetch('content.json')
+  fetch('content.json', { cache: 'no-cache' })
     .then(response => response.json())
     .then(pages => {
       const page = pages[slug];
