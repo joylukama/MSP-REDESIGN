@@ -195,3 +195,23 @@ img{max-width:100%}.hero-copy,.hero-image,.about>div,.apply>div,.detail-layout>*
  .nav-toggle::after{content:'';width:8px;height:8px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);margin:0 5px 5px 12px;flex-shrink:0}
  .nav-toggle[aria-expanded="true"]::after{transform:rotate(225deg);margin-bottom:0}
 }
+
+/* Compact arrow graphics use borders rather than emoji characters. */
+:is(.button,.nav-apply,.text-link,.feature-link,.scholar-source,.update-source,.countdown-source,.resource-card,.nav-panel a)::after{
+ content:'';
+ display:inline-block;
+ width:7px;
+ height:7px;
+ border-top:1.5px solid currentColor;
+ border-right:1.5px solid currentColor;
+ transform:rotate(45deg);
+ flex-shrink:0;
+ margin-left:10px;
+ vertical-align:middle;
+}
+.resource-card::after{float:right;margin-top:8px}
+.feature-link::after{width:6px;height:6px}
+.nav-panel a::after{width:6px;height:6px}
+@media(max-width:900px){
+ :is(.button,.nav-apply,.text-link,.feature-link,.scholar-source,.update-source,.countdown-source,.resource-card,.nav-panel a)::after{width:6px;height:6px;border-width:1.5px}
+}
