@@ -1,0 +1,48 @@
+[
+  {
+    "id": "kaelonnah",
+    "name": "Kaelonnah Darlich",
+    "label": "RESEARCH PRESENTATION · APRIL 2026",
+    "title": "Monarch research on a national stage",
+    "intro": "Millennium Scholar Kaelonnah Darlich presented at the National Conference on Undergraduate Research in Richmond, Virginia, in April 2026.",
+    "items": [
+      "Her entomology research examines how simulated heat waves affect monarch butterfly development, reproduction, and mate selection.",
+      "She conducts this work with arthropod ecologist Mônica Kersch-Becker.",
+      "She also received a 2026 Stand Up Award for Undergraduate Ethical Leadership."
+    ],
+    "source": "https://science.psu.edu/news/two-first-gen-undergrads-present-national-conference",
+    "extra": "https://www.psu.edu/news/rock-ethics-institute/story/rock-ethics-institute-names-2026-stand-award-winners",
+    "caption": "Kaelonnah Darlich (right) with Donna Hercules at NCUR 2026. Photo published by Penn State.",
+    "alt": "Donna Hercules, left, and Kaelonnah Darlich, right, at the NCUR 2026 conference"
+  },
+  {
+    "id": "kieran",
+    "name": "Kieran Sturges",
+    "label": "GOLDWATER SCHOLARSHIP · 2026–27",
+    "title": "Computing that advances communication research",
+    "intro": "Millennium Scholar Kieran Sturges earned a 2026–27 Goldwater Scholarship, recognizing his academic achievement and research experience.",
+    "items": [
+      "His studies combine computer science and mathematics.",
+      "In Penn State’s Speech, Language and Swallowing study, he develops computational and AI-based methods to improve research procedures.",
+      "His research interests connect computing with communication sciences and disorders, including speech and swallowing outcomes in individuals with Down syndrome."
+    ],
+    "source": "https://www.psu.edu/news/students/story/two-students-earn-goldwater-scholarships-academic-merit-research-experience",
+    "caption": "Photo: Sean Yoder / Penn State. CC BY-NC-ND 4.0.",
+    "alt": "Kieran Sturges, recipient of a 2026–27 Goldwater Scholarship"
+  },
+  {
+    "id": "bridget",
+    "name": "Bridget Reheard",
+    "label": "ALUMNI ACHIEVEMENT · 2025",
+    "title": "Environmental research and a national fellowship",
+    "intro": "Millennium Scholar Bridget Reheard was named the College of Earth and Mineral Sciences’ summer 2025 student marshal and received a 2025 National Science Foundation Graduate Research Fellowship.",
+    "items": [
+      "She graduated summa cum laude with a 4.0 GPA and degrees in geosciences and wildlife and fisheries science.",
+      "Her undergraduate research examined shale gas development and aquatic communities, alongside summer projects involving environmental contaminants.",
+      "Penn State reported that she would begin doctoral study in Integrated Toxicology and Environmental Health at Duke University in fall 2025."
+    ],
+    "source": "https://www.psu.edu/news/earth-and-mineral-sciences/story/bridget-reheard-named-summer-2025-college-earth-and-mineral",
+    "caption": "Photo: Bridget Reheard. Published by Penn State. All rights reserved.",
+    "alt": "Bridget Reheard, 2025 student marshal and NSF Graduate Research Fellowship recipient"
+  }
+]
