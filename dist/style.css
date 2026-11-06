@@ -241,3 +241,11 @@ img{max-width:100%}.hero-copy,.hero-image,.about>div,.apply>div,.detail-layout>*
 .community>.community-photo{position:relative;aspect-ratio:1440 / 940;overflow:hidden;padding:0;background:none;width:100%;align-self:center}
 .community>.community-photo>img{position:absolute;top:-29.787234%;left:0;display:block;width:100%;max-width:none;height:auto;margin:0;object-fit:initial}
 @media(max-width:760px){.community>.community-photo{padding:0}.community>.community-photo>img{height:auto}}
+
+/* Crop added social captions, retaining the original photo files. */
+.photo-window{position:relative;width:100%;overflow:hidden}
+.photo-window-abrcms{aspect-ratio:1440 / 840}
+.photo-window-mit{aspect-ratio:1440 / 1195}
+article .program-photo .photo-window>img{position:absolute;left:0;display:block;width:100%;max-width:none;height:auto;max-height:none;margin:0;object-fit:initial}
+article .program-photo .photo-window-abrcms>img{top:-35.714286%}
+article .program-photo .photo-window-mit>img{top:-20.502092%}
